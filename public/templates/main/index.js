@@ -1,4 +1,4 @@
-import { htmlFragment } from '../../components/html-fragment';
+import { htmlFragment } from '../../components/html-fragment.js';
 
 const head = fetch('/templates/main/head.html');
 
